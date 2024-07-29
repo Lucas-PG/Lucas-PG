@@ -4,7 +4,7 @@
 print("Hello World!")
 ```
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhu08&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-PG&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lucas-PG/Lucas-PG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
