@@ -1,4 +1,4 @@
-<h1 align="center"> :vulcan_salute: Hey, I'm Lucas! </h1>
+<!-- <h1 align="center"> :vulcan_salute: Hey, I'm Lucas! </h1> -->
 
 ```python
 print("Hello World!")
