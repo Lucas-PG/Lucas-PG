@@ -4,7 +4,7 @@
 print("Hello World!")
 ```
 
-<div align="center">I code</div>
+<div align="center">I code stuff</div>
 
 <!--
 **Lucas-PG/Lucas-PG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
